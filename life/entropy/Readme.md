@@ -18,3 +18,7 @@ which is the starting point...
 [Dissipative system](https://en.m.wikipedia.org/wiki/Dissipative_system)
 
 [Ilya Prigogine won a Nobel prize](https://www.nobelprize.org/uploads/2018/06/prigogine-lecture.pdf)
+
+### Science Fiction Notes of Interest
+
+[Ted Chiang Short Story](http://www.lightspeedmagazine.com/fiction/exhalation/)
