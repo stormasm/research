@@ -5,6 +5,8 @@ which is the starting point...
 
 ### Youtube Videos
 
+[The Physics of Life (ft. It's Okay to be Smart & PBS Eons!) | Space Time](https://www.youtube.com/watch?v=GcfLZSL7YGw)
+
 [What is life-lecture: Jeremy England](https://www.youtube.com/watch?v=e91D5UAz-f4)
 
 [Greater Boston Video: MIT Biophysicist Claims Origins Of Life All About Energy](https://www.youtube.com/watch?v=ka8573QQKW4)
