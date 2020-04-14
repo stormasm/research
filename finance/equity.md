@@ -44,7 +44,7 @@ that the overall return will be that great if the stock gets hammered.
 
 #### The Scariest trade is sometimes the best trade
 Meaing that when people are scared or in fear about the market or
-a particular equity that sometimes that creates the best opportunity.
+a particular equity that sometimes creates the best opportunity.
 
 #### References
 
