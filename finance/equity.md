@@ -48,6 +48,8 @@ a particular equity that sometimes that creates the best opportunity.
 
 #### References
 
+[Definition of Adage](https://www.google.com/search?q=definition+adage&oq=definition+adage&aqs=chrome..69i57j0l7.3791j1j7&sourceid=chrome&ie=UTF-8)
+
 [Ben Graham](https://www.google.com/search?q=ben+graham+investing+book&oq=ben+graham+investing+book&aqs=chrome..69i57j0l5.4513j0j7&sourceid=chrome&ie=UTF-8)
 
 [Peter Lynch](https://www.google.com/search?biw=1259&bih=650&sxsrf=ALeKk01CAuqMBvW5fiBG1OahHxGf1i1wOQ%3A1586886908137&ei=_PiVXqH5B9q-0PEP5Ly9CA&q=peter+lynch+one+up+on+wall+street&oq=peter+lynch+one+up+on+wall+street&gs_lcp=CgZwc3ktYWIQAzICCAAyBwgAEBQQhwIyAggAMgIIADICCAAyAggAMgIIADICCAAyAggAMgUIABDNAjoECAAQRzoECCMQJzoFCAAQgwE6BwgjEOoCECc6BAgAEEM6BQgAEJECOgcIABCDARBDOgYIABAKEENKKQgXEiUwZzgyZzg4Zzg2Zzg4Zzg5ZzgwZzg0Zzc3ZzgwZzgwZzc4Zzc5Sh4IGBIaMGcyZzJnMmcyZzJnM2cxZzJnMWc3ZzdnMTdQiThYhocBYPuKAWgFcAJ4AIABaIgByiOSAQQ1Ni4xmAEAoAEBqgEHZ3dzLXdperABCg&sclient=psy-ab&ved=0ahUKEwih59SzvujoAhVaHzQIHWReDwEQ4dUDCAw&uact=5)
