@@ -1,6 +1,15 @@
 
 ## Trading Adages
 
+Here are some concepts I have learned and developed over
+the years.  The order of this list is important.
+
+#### Take a long term strategy with the stock market
+Buy the best companies and hold them forever.  Sometimes
+its challenging to admit to yourself that the best company
+is no longer the best company.  But the other adages below
+will help guide you on making that assessment.
+
 #### The trend is your friend
 This means that by determining the trend of a stock will tell
 you the direction its moving.  If the trend is down then the
