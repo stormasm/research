@@ -46,6 +46,9 @@ that the overall return will be that great if the stock gets hammered.
 Meaing that when people are scared or in fear about the market or
 a particular equity that sometimes creates the best opportunity.
 
+##### One of the keys to great investing is “sitting on your ass.”
+That means doing nothing the vast majority of the time, but buying with “aggression” when bargains abound.
+
 #### References
 
 [Definition of Adage](https://www.google.com/search?q=definition+adage&oq=definition+adage&aqs=chrome..69i57j0l7.3791j1j7&sourceid=chrome&ie=UTF-8)
@@ -53,5 +56,7 @@ a particular equity that sometimes creates the best opportunity.
 [Ben Graham](https://www.google.com/search?q=ben+graham+investing+book&oq=ben+graham+investing+book&aqs=chrome..69i57j0l5.4513j0j7&sourceid=chrome&ie=UTF-8)
 
 [Peter Lynch](https://www.google.com/search?biw=1259&bih=650&sxsrf=ALeKk01CAuqMBvW5fiBG1OahHxGf1i1wOQ%3A1586886908137&ei=_PiVXqH5B9q-0PEP5Ly9CA&q=peter+lynch+one+up+on+wall+street&oq=peter+lynch+one+up+on+wall+street&gs_lcp=CgZwc3ktYWIQAzICCAAyBwgAEBQQhwIyAggAMgIIADICCAAyAggAMgIIADICCAAyAggAMgUIABDNAjoECAAQRzoECCMQJzoFCAAQgwE6BwgjEOoCECc6BAgAEEM6BQgAEJECOgcIABCDARBDOgYIABAKEENKKQgXEiUwZzgyZzg4Zzg2Zzg4Zzg5ZzgwZzg0Zzc3ZzgwZzgwZzc4Zzc5Sh4IGBIaMGcyZzJnMmcyZzJnM2cxZzJnMWc3ZzdnMTdQiThYhocBYPuKAWgFcAJ4AIABaIgByiOSAQQ1Ni4xmAEAoAEBqgEHZ3dzLXdperABCg&sclient=psy-ab&ved=0ahUKEwih59SzvujoAhVaHzQIHWReDwEQ4dUDCAw&uact=5)
+
+[Charlie Munger](https://www.wsj.com/articles/charlie-munger-the-phone-is-not-ringing-off-the-hook-11587132006)
 
 [Top 10 Stock Investing Books](https://www.google.com/search?biw=1259&bih=650&sxsrf=ALeKk007dTCR5sPyrhmsJFhXByGxnJQjaQ%3A1586886927491&ei=D_mVXqPCHeXr9AOc7aXYDg&q=top+10+stock+investing+books&oq=top+10&gs_lcp=CgZwc3ktYWIQARgAMgQIIxAnMgQIABBDMgQIABBDMgQIABBDMgQIABBDMgQIABBDMgcIABAUEIcCMgQIABBDMgQIABBDMgQIABBDOgIIADoECAAQHjoFCAAQzQI6BQgAEIMBOgUIABCRAkogCBcSHDBnODhnMTAwZzkyZzExM2c5MGc3OWcxMi0xMDNKFggYEhIwZzFnMWcxZzFnMWcxZzEyLTJQ68UCWNbMAmDU2gJoAHAAeACAAWuIAcQFkgEDNi4ymAEAoAEBqgEHZ3dzLXdpeg&sclient=psy-ab)
