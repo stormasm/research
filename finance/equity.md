@@ -47,7 +47,8 @@ Meaing that when people are scared or in fear about the market or
 a particular equity that sometimes creates the best opportunity.
 
 ##### One of the keys to great investing is “sitting on your ass.”
-That means doing nothing the vast majority of the time, but buying with “aggression” when bargains abound. --- Charlie Munger
+That means doing nothing the vast majority of the time, but buying with “aggression” when bargains abound.   
+--- Charlie Munger
 
 #### References
 
