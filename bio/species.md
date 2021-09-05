@@ -5,4 +5,7 @@
 
 [Parallel genomic evolution and metabolic interdependence in an ancient symbiosis](https://pubmed.ncbi.nlm.nih.gov/18048332/)
 
+##### Wikipedia
+
 [Karelsulcia muelleri](https://en.wikipedia.org/wiki/Karelsulcia_muelleri)
+[Bacteriodetes](https://en.wikipedia.org/wiki/Bacteroidetes)
