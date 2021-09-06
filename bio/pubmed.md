@@ -1,4 +1,7 @@
 
+### Bacteria
+[Species Numbers in Bacteria](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3160642/)
+
 ### Mitochondria
 
 [High glucose induces phosphorylation and oxidation of mitochondrial proteins in renal tubular cells: A proteomics approach](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7125224/)
