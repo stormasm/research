@@ -13,9 +13,11 @@
   * [blasto cladio mycota](https://en.wikipedia.org/wiki/Blastocladiomycota)
 * Mucoromyceta
   * [mucoro mycota](https://en.wikipedia.org/wiki/Mucoromycotina)
-* [Zoopagomyceta](https://en.wikipedia.org/wiki/Zoopagomycotina)
-  * [zygo mycota](https://en.wikipedia.org/wiki/Zygomycota) approximately 1060 species
-  * [zoopago mycota](https://en.wikipedia.org/wiki/Zoopagomycotina)
+
+* [zygo mycota](https://en.wikipedia.org/wiki/Zygomycota) approximately 1060 species
+* [zoopago mycota](https://en.wikipedia.org/wiki/Zoopagomycotina)
+  * [Zoopagomyceta](https://en.wikipedia.org/wiki/Zoopagomycotina)
+
 * [deutero mycota](https://en.wikipedia.org/wiki/Fungi_imperfecti)
 
 ##### References
