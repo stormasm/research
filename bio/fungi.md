@@ -6,6 +6,9 @@
     * [asco mycota](https://en.wikipedia.org/wiki/Ascomycota)
     * [basidio mycota](https://en.wikipedia.org/wiki/Basidiomycota)
   * [glomero mycota](https://en.wikipedia.org/wiki/Glomeromycota)
+* Chytridiomyceta
+    * [chytridio mycota](https://en.wikipedia.org/wiki/Chytridiomycota)
+    * [neo call imastigo mycota](https://en.wikipedia.org/wiki/Neocallimastigomycota)
 
 
 ##### Others
@@ -13,9 +16,6 @@
 * [blasto cladio mycota](https://en.wikipedia.org/wiki/Blastocladiomycota)
 * [mucoro mycota](https://en.wikipedia.org/wiki/Mucoromycotina)
 
-* Chytridiomyceta
-  * [chytridio mycota](https://en.wikipedia.org/wiki/Chytridiomycota)
-  * [neo call imastigo mycota](https://en.wikipedia.org/wiki/Neocallimastigomycota)
 
 ##### Everything else
 
