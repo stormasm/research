@@ -13,14 +13,13 @@
 * [mucoro mycota](https://en.wikipedia.org/wiki/Mucoromycotina)
 * [chytridio mycota](https://en.wikipedia.org/wiki/Chytridiomycota)
 * [neo call imastigo mycota](https://en.wikipedia.org/wiki/Neocallimastigomycota)
+* [glomero mycota](https://en.wikipedia.org/wiki/Glomeromycota)
 
 ##### Everything else
 
 * [zygo mycota](https://en.wikipedia.org/wiki/Zygomycota) approximately 1060 species
-* [chytridio mycota]
-* [deutero mycota]
-* [glomero mycota]
-* [zoopago mycota]
+* [zoopago mycota](https://en.wikipedia.org/wiki/Zoopagomycotina)
+* [deutero mycota](https://en.wikipedia.org/wiki/Fungi_imperfecti)
 
 #### References
 
