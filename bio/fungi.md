@@ -28,3 +28,13 @@
 ##### google search
 
 * [industrial uses of fungi](https://www.google.com/search?q=industrial+uses+of+fungi&oq=industrial+uses+of+fungi)
+
+##### equity analysis
+
+* [fungi stocks](https://swingtradebot.com/stocks-tagged-as/34477-fungi)
+
+##### practical use
+
+* [fungi in industry and ag](https://www.omicsonline.org/fungi-in-industry-and-agriculture-scholarly-open-access-journals.php)
+
+* [citric acid](https://www.researchgate.net/figure/Citric-acid-production-by-fungal-isolates_tbl2_308937084)
