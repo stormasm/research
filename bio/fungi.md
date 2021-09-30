@@ -1,9 +1,12 @@
 
 ## fungi phyla
 
-##### [Dikarya](https://en.wikipedia.org/wiki/Dikarya)
-* [asco mycota](https://en.wikipedia.org/wiki/Ascomycota)
-* [basidio mycota](https://en.wikipedia.org/wiki/Basidiomycota)
+* Symbiomycota
+  * [Dikarya](https://en.wikipedia.org/wiki/Dikarya)
+    * [asco mycota](https://en.wikipedia.org/wiki/Ascomycota)
+    * [basidio mycota](https://en.wikipedia.org/wiki/Basidiomycota)
+  * [glomero mycota](https://en.wikipedia.org/wiki/Glomeromycota)
+
 
 ##### Others
 
@@ -12,8 +15,7 @@
 
 * Chytridiomyceta
   * [chytridio mycota](https://en.wikipedia.org/wiki/Chytridiomycota)
-* [neo call imastigo mycota](https://en.wikipedia.org/wiki/Neocallimastigomycota)
-* [glomero mycota](https://en.wikipedia.org/wiki/Glomeromycota)
+  * [neo call imastigo mycota](https://en.wikipedia.org/wiki/Neocallimastigomycota)
 
 ##### Everything else
 
