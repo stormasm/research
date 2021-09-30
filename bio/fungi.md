@@ -3,7 +3,7 @@
 
 ### Phyla Research
 
-##### Dikarya
+##### [Dikarya](https://en.wikipedia.org/wiki/Dikarya)
 * [asco mycota](https://en.wikipedia.org/wiki/Ascomycota)
 * [basidio mycota](https://en.wikipedia.org/wiki/Basidiomycota)
 
