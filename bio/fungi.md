@@ -24,6 +24,7 @@
 * [phylum](https://en.wikipedia.org/wiki/Phylum)
 * [science direct eumycota](https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/eumycota)
 * [biology ease: morphology and ultrastructure of fungi](https://biologyease.com/morphology-and-ultrastructure-of-fungi/)
+* [subcellular structure and biochemical characters in fungal phylogeny](https://link.springer.com/chapter/10.1007%2F978-3-662-46011-5_9)
 
 ##### google search
 
