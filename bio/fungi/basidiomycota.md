@@ -1,5 +1,5 @@
 
-##### Ceratobasidium
+##### ceratobasidium
 ```
 Dikarya; Basidiomycota; Agaricomycotina; Agaricomycetes; Cantharellales; Ceratobasidiaceae; Ceratobasidium.
 ```
