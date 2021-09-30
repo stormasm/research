@@ -1,5 +1,5 @@
 
-## Fungi, phyla research
+## fungi phyla
 
 ##### [Dikarya](https://en.wikipedia.org/wiki/Dikarya)
 * [asco mycota](https://en.wikipedia.org/wiki/Ascomycota)
