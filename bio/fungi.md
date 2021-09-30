@@ -9,7 +9,9 @@
 
 * [blasto cladio mycota](https://en.wikipedia.org/wiki/Blastocladiomycota)
 * [mucoro mycota](https://en.wikipedia.org/wiki/Mucoromycotina)
-* [chytridio mycota](https://en.wikipedia.org/wiki/Chytridiomycota)
+
+* Chytridiomyceta
+  * [chytridio mycota](https://en.wikipedia.org/wiki/Chytridiomycota)
 * [neo call imastigo mycota](https://en.wikipedia.org/wiki/Neocallimastigomycota)
 * [glomero mycota](https://en.wikipedia.org/wiki/Glomeromycota)
 
