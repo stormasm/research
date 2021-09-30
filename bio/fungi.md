@@ -14,9 +14,8 @@
 * Mucoromyceta
   * [mucoro mycota](https://en.wikipedia.org/wiki/Mucoromycotina)
   * [zygo mycota](https://en.wikipedia.org/wiki/Zygomycota) approximately 1060 species
+    * [zoopago mycota](https://en.wikipedia.org/wiki/Zoopagomycotina)
 * Others
-  * [zoopago mycota](https://en.wikipedia.org/wiki/Zoopagomycotina)
-  * [Zoopagomyceta](https://en.wikipedia.org/wiki/Zoopagomycotina)
   * [deutero mycota](https://en.wikipedia.org/wiki/Fungi_imperfecti)
 
 ##### References
