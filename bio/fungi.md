@@ -24,3 +24,7 @@
 * [phylum](https://en.wikipedia.org/wiki/Phylum)
 * [science direct eumycota](https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/eumycota)
 * [biology ease: morphology and ultrastructure of fungi](https://biologyease.com/morphology-and-ultrastructure-of-fungi/)
+
+##### google search
+
+* [industrial uses of fungi](https://www.google.com/search?q=industrial+uses+of+fungi&oq=industrial+uses+of+fungi)
