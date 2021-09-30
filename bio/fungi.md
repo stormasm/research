@@ -7,6 +7,8 @@
 * [asco mycota](https://en.wikipedia.org/wiki/Ascomycota)
 * [basidio mycota](https://en.wikipedia.org/wiki/Basidiomycota)
 
+##### Everything else...
+
 * [blastocladio mycota](https://en.wikipedia.org/wiki/Blastocladiomycota)
 * [mucoro mycota](https://en.wikipedia.org/wiki/Mucoromycotina)
 
