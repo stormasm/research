@@ -5,8 +5,8 @@
 
 #### NCBI Dataset
 
-[Debaryomyces hansenii CBS767](https://www.ncbi.nlm.nih.gov/datasets/genomes/?taxon=284592)
-[Taxonomy 284592](https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=284592)
+* [Debaryomyces hansenii CBS767](https://www.ncbi.nlm.nih.gov/datasets/genomes/?taxon=284592)
+* [Taxonomy 284592](https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=284592)
 
 [Science Direct: The Yeasts](https://www.sciencedirect.com/book/9780444521491/the-yeasts)
 
